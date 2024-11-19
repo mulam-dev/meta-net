@@ -12,7 +12,7 @@
 <div class="box-fill divide-(y solid hue-6)">
     <div class="flex">
         <div class="flex flex-1 items-center p-2 gap-2">
-            <img class="h-6" src="/logo.svg" alt="Logo" />
+            <img class="size-6" src="/logo.svg" alt="Logo" />
             <div class="flex-1 font-500">Meta Net</div>
         </div>
         <button
