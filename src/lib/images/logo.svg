@@ -5,9 +5,12 @@
       <stop offset="0" style="stop-color: rgb(150, 184, 255);"/>
       <stop offset="1" style="stop-color: rgb(0, 82, 255);"/>
     </linearGradient>
-    <linearGradient id="gradient-2-0" href="#gradient-2" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="250" y2="500" gradientTransform="matrix(1, 0, 0, 1, 0, 0)"/>
+    <linearGradient id="gradient-2-0" href="#gradient-2" gradientUnits="userSpaceOnUse" x1="250" y1="0" x2="250" y2="500" gradientTransform="matrix(1.000001, 0, 0, 1.000001, -0.000001, -0.000001)"/>
+    <bx:export>
+      <bx:file format="png" path="favicon.png" width="128" height="128"/>
+    </bx:export>
     <mask id="mask-0">
-      <g>
+      <g transform="matrix(1.178015, 0, 0, 1.178015, -43.846443, -45.312984)" style="">
         <ellipse style="fill: rgb(255, 255, 255);" cx="149.955" cy="134.701" rx="46.642" ry="46.642"/>
         <ellipse style="fill: rgb(255, 255, 255);" cx="344.918" cy="171.082" rx="28.918" ry="28.918"/>
         <ellipse style="fill: rgb(255, 255, 255);" cx="124.955" cy="376.12" rx="46.642" ry="46.642"/>
@@ -15,16 +18,13 @@
         <polygon style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-linecap: round; stroke-width: 24px;" points="149.545 133.741 390.823 374.897 344.358 172.388 126.438 376.035"/>
       </g>
     </mask>
-    <bx:export>
-      <bx:file format="png" path="favicon.png" width="128" height="128"/>
-    </bx:export>
   </defs>
-  <g transform="matrix(1, 0, 0, 1, -0.013004, -0.059006)">
-    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 24px;" cx="149.955" cy="134.701" rx="46.642" ry="46.642"/>
-    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 24px;" cx="344.918" cy="171.082" rx="28.918" ry="28.918"/>
-    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 24px;" cx="124.955" cy="376.12" rx="46.642" ry="46.642"/>
-    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 24px;" cx="391" cy="375" rx="25" ry="25"/>
-    <polygon style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-linecap: round; stroke-width: 48px;" points="149.545 133.741 390.823 374.897 344.358 172.388 126.438 376.035"/>
+  <g transform="matrix(1.178015, 0, 0, 1.178015, -43.861759, -45.382496)" style="">
+    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 40.7465px;" cx="149.955" cy="134.701" rx="46.642" ry="46.642"/>
+    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 40.7465px;" cx="344.918" cy="171.082" rx="28.918" ry="28.918"/>
+    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 40.7465px;" cx="124.955" cy="376.12" rx="46.642" ry="46.642"/>
+    <ellipse style="fill: none; stroke: rgb(255, 255, 255); stroke-width: 40.7465px;" cx="391" cy="375" rx="25" ry="25"/>
+    <polygon style="fill: none; stroke: rgb(255, 255, 255); stroke-linejoin: round; stroke-linecap: round; stroke-width: 66.2131px;" points="149.545 133.741 390.823 374.897 344.358 172.388 126.438 376.035"/>
   </g>
-  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-2-0&quot;); mask: url(&quot;#mask-0&quot;);"/>
+  <rect width="500" height="500" style="stroke: rgb(0, 0, 0); fill: url(&quot;#gradient-2-0&quot;); mask: url(&quot;#mask-0&quot;);" y="0.001"/>
 </svg>
