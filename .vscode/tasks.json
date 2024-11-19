@@ -1,0 +1,28 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "deno",
+			"command": "run",
+			"args": ["--env-file=.env.example", "dev"],
+			"problemMatcher": [
+				"$deno"
+			],
+			"label": "deno: run dev",
+			"isBackground": true,
+			"runOptions": {
+				"runOn": "folderOpen"
+			}
+		},
+		{
+			"type": "deno",
+			"command": "run",
+			"args": ["deno"],
+			"problemMatcher": [
+				"$deno"
+			],
+			"label": "deno: run deno",
+			"isBackground": true
+		}
+	]
+}

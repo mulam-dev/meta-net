@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+	<meta charset="utf-8" />
+	<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+	<link rel="manifest" href="/manifest.json" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#F0F0F0" media="(prefers-color-scheme: light)">
+	<meta name="theme-color" content="#222222" media="(prefers-color-scheme: dark)">
+	<style>
+		html {
+			background: #F0F0F0;
+		}
+		@media (prefers-color-scheme: dark) {
+			html {
+				background: #222222;
+			}
+		}
+	</style>
+	%sveltekit.head%
+</head>
+
+<body data-sveltekit-preload-data="hover" un-cloak>
+	<div style="display: contents" class="hue-base text-base text-hue-12 text-nowrap select-none">%sveltekit.body%</div>
+</body>
+
+</html>
